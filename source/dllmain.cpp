@@ -14,7 +14,7 @@
 *   3. This notice may not be removed or altered from any source distribution.
 */
 
-// Fix Enhancers Spiderman Shattered Dimensions Patches Added
+// Fix Enhancers/ Chips Spiderman Shattered Dimensions Patches Added
 
 #include "d3d9.h"
 #include "d3dx9.h"
