@@ -4,7 +4,7 @@ This is the spiderman Shattered Dimensions d3d9 wrapper which is based from 13AG
 
 https://github.com/ThirteenAG/d3d9-wrapper
 
-simply put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go 
+simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go
 
 you can set your resolution width and height in the ini default is 1920 x 1080, in this game aspect ratio is calculated based on what resolution you choose.
 
