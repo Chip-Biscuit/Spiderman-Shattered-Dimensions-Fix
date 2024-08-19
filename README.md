@@ -16,7 +16,7 @@ Default for FPS cap is 0 (120 fps) you can change it as you like.
 
 if you would like to leave feedback or submit a bug please use the form provided:
 
-https://docs.google.com/forms/d/e/1FAIpQLScPE3ResvwnlqbCAN_Sbf_sfFfFx3jBKrMs9aPL4751SMvrUA/viewform?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLSf2TZKxd61V6KfWokRa1is2qiG-207Iut9pg2NgyBPtKeCeHA/viewform?usp=sharing
 
 brought to you by Fix Enhancers 
 
