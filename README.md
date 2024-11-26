@@ -1,5 +1,9 @@
 # Spiderman-Shattered-Dimensions-Fix
 
+This is the spiderman Shattered Dimensions d3d9 wrapper which is based from 13AG d3d9.dll wrapper
+
+https://github.com/ThirteenAG/d3d9-wrapper
+
 simply download the release and put the d3d9.dll and d3d9.ini into your game folder next to the game exe and your good to go
 
 you can set your resolution width and height in the ini default is 1920 x 1080, in this game aspect ratio is calculated based on what resolution you choose.
@@ -16,12 +20,10 @@ Default for FPS cap is 0 (120 fps) you can change it as you like.
 
 if you would like to leave feedback or submit a bug please use the form provided:
 
-https://docs.google.com/forms/d/e/1FAIpQLSf2TZKxd61V6KfWokRa1is2qiG-207Iut9pg2NgyBPtKeCeHA/viewform?usp=sharing
+https://docs.google.com/forms/d/e/1FAIpQLScPE3ResvwnlqbCAN_Sbf_sfFfFx3jBKrMs9aPL4751SMvrUA/viewform?usp=sharing
 
 brought to you by Fix Enhancers 
 
 Team: 
 
 Chip, JokerAlex21.
-
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
