@@ -20,6 +20,8 @@ if you would like to leave feedback or submit a bug please use the form provided
 
 https://docs.google.com/forms/d/e/1FAIpQLScPE3ResvwnlqbCAN_Sbf_sfFfFx3jBKrMs9aPL4751SMvrUA/viewform?usp=sharing
 
+credit to Elisha Riedlinger for the base wrapper and 13 AG.
+
 brought to you by Fix Enhancers 
 
 Team: 
