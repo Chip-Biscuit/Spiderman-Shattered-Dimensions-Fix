@@ -16,9 +16,9 @@ you can edit settings in d3d9.ini
 
 Default for FPS cap is 0 (120 fps) you can change it as you like.
 
-if you would like to leave feedback or submit a bug please use the form provided:
+If you have any issues please go to discord for help 
 
-https://docs.google.com/forms/d/e/1FAIpQLScPE3ResvwnlqbCAN_Sbf_sfFfFx3jBKrMs9aPL4751SMvrUA/viewform?usp=sharing
+https://discord.gg/pZwkHrTF8X
 
 credit to Elisha Riedlinger for the base wrapper and 13 AG.
 
